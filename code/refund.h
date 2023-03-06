@@ -1,10 +1,10 @@
 #ifndef REFUND_H
 #define REFUND_H
 // NOT FIXED YET
-#include "../user/user.h"
-#include "../item/item.h"
-#include "../filemanager/CurrentUserAccountsFileManager.h"
-#include "../filemanager/CurrentItemsFileManager.h"
+#include "user.h"
+#include "item.h"
+#include "CurrentUserAccountsFileManager.h"
+#include "CurrentItemsFileManager.h"
 #include <string>
 
 class Refund {
