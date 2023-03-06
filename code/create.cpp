@@ -5,7 +5,7 @@
 #include <string>
 #include <sstream>
 #include <cstdio>
-#include "../user/user.h"
+#include "user.h"
 #include "transaction.h"
 #include "create.h"
 
