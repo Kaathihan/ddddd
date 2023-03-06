@@ -4,7 +4,7 @@
 #include <vector>
 #include <sstream>
 #include <cstdio>
-#include "../user/user.h"
+#include "user.h"
 #include "transaction.h"
 #include <iostream>
 #include <string>
