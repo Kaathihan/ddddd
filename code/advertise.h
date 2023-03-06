@@ -3,10 +3,10 @@
 
 #include <iostream>
 #include <string>
-#include "../user/user.h"
-#include "../transactions/item.h"
-#include "../transactions/transaction.h"
-#include "../transactions/currentitemsfilemanager.h"
+#include "user.h"
+#include "item.h"
+#include "transaction.h"
+#include "currentitemsfilemanager.h"
 
 class Advertise : public Transaction {
 public:
