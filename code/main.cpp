@@ -8,12 +8,12 @@
 #include <cstdio>
 #include <thread>
 
-#include "user/user.h"
-#include "transactions/transaction.h"
-#include "transactions/delete.h"
-#include "transactions/create.h"
-#include "transactions/addcredit.h"
-#include "transactions/changePassword.h"
+#include "user.h"
+#include "transaction.h"
+#include "delete.h"
+#include "create.h"
+#include "addcredit.h"
+#include "changePassword.h"
 using namespace std;
 
 Transaction transactionSession; 
