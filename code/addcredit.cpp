@@ -7,7 +7,7 @@
 #include <cstdio>
 #include <limits>
 
-#include "../user/user.h"
+#include "user.h"
 #include "transaction.h"
 #include "addcredit.h"
 
